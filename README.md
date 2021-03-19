@@ -1,5 +1,5 @@
 # Buy-Side-Holdings-Analysis-Based-on-SEC-13F-filings
-Scrape and analyze funds’ SEC 13F quarterly reports from the SEC's EDGAR database. Take 2 funds Blackstone and Two Sigma as examples.
+Scrape and parse funds’ SEC 13F quarterly reports from the SEC's EDGAR database. Take 2 funds Blackstone and Two Sigma as examples.
 
 The database named 'sec_reports' has 3 tables: 'holdings', 'date_records', and 'ciks' are separately for downloading reports, recording reports' dates, and mapping cik to ticker.
  
